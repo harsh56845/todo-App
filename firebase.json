@@ -1,0 +1,55 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "todo-webapp1",
+          "appId": "1:99459481755:android:450a67993c2fbde128463e",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "todo-webapp1",
+          "appId": "1:99459481755:ios:27961dfe179128e528463e",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "todo-webapp1",
+          "appId": "1:99459481755:ios:27961dfe179128e528463e",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "todo-webapp1",
+          "configurations": {
+            "android": "1:99459481755:android:450a67993c2fbde128463e",
+            "ios": "1:99459481755:ios:27961dfe179128e528463e",
+            "macos": "1:99459481755:ios:27961dfe179128e528463e",
+            "web": "1:99459481755:web:227daa8466d9440828463e",
+            "windows": "1:99459481755:web:dce88a485ed7d06e28463e"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

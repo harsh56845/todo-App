@@ -1,16 +1,48 @@
-# todo_flutter_app_2
+# 📝 ToDo Flutter App (Web + Android)
 
-A new Flutter project.
+A responsive and feature-rich **ToDo List App** built with **Flutter**, following the **MVC architecture**. This app uses **Firebase Authentication** for secure login/signup and **Cloud Firestore** for real-time task storage per user. Works seamlessly on both **Web** and **Android** platforms.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Live Demo
 
-A few resources to get you started if this is your first Flutter project:
+- 🌐 Web: 👉 [Try it on Web](https://todo-webapp1.web.app/))
+- 📱 Android APK: 👉 [Download APK](https://drive.google.com/file/d/1n6I-moIVDk7vVWJDygppXGIZAFVGixKa/view?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+✅ Add new tasks  
+✏️ Edit tasks using a pop-up dialog  
+❌ Delete tasks  
+☑️ Mark tasks as complete (checkbox)  
+🔐 User Signup / Login / Logout  
+🔒 Secure UID-based task storage  
+🧠 MVC Architecture (Model-View-Controller)  
+💬 SnackBar feedback messages  
+🎨 Google Fonts + Custom AppBar styling  
+📁 Profile creation and fetch  
+🔍 Filter tasks: All / Completed / Incomplete  
+📡 Real-time sync with Firestore  
+❤️ "Made by Harsh" footer credit  
+🌐 Hosted on GitHub Pages (Web)
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer        | Tech                              |
+|--------------|-----------------------------------|
+| 💻 Frontend   | Flutter (Web + Android)           |
+| 🎨 Styling    | Material UI, Google Fonts         |
+| 🔐 Auth       | Firebase Authentication           |
+| 🗃️ Storage    | Firebase Cloud Firestore          |
+| 🧭 Structure  | MVC (Model-View-Controller)        |
+| 🚀 Hosting    | GitHub Pages (Web), APK (Android) |
+| 🧪 Language   | Dart                               |
+
+---
+
+
+

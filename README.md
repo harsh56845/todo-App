@@ -6,7 +6,7 @@ A responsive and feature-rich **ToDo List App** built with **Flutter**, followin
 
 ## 🚀 Live Demo
 
-- 🌐 Web: 👉 [Try it on Web](https://todo-webapp1.web.app/))
+- 🌐 Web: 👉 [Try it on Web](https://todo-webapp1.web.app/)
 - 📱 Android APK: 👉 [Download APK](https://drive.google.com/file/d/1n6I-moIVDk7vVWJDygppXGIZAFVGixKa/view?usp=sharing)
 
 ---
